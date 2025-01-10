@@ -1,6 +1,6 @@
 # World-Populaton-Analysis
 Objective is to analyze the population in different years in various countries and their ranks, growth rate, world population percentage and top continents
-To fit a model from machine learnig models like linear regression, kNN, random forest, decision tree to predict 2022 population depending on previous years and to predict world population percentage depending on all-years population 
+To fit a model from machine learning models like linear regression, kNN, random forest, decision tree to predict 2022 population depending on previous years and to predict world population percentage depending on all-years population 
 # Key highlights:
 I have used Choropleth map to analyze growth rate and scatterplot of plotly package to analyze the area distributed depending on area density and top 10 countries with highest population.
 # Conclusion:
