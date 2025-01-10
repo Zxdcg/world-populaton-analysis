@@ -4,5 +4,5 @@ To fit a model from machine learnig models like linear regression, kNN, random f
 # Key highlights:
 I have used Choropleth map to analyze growth rate and scatterplot of plotly package to analyze the area distributed depending on area density and top 10 countries with highest population.
 # Conclusion:
-China and India are the top 2 countries with above 1.4 billion population and Asia is the top continent among six continents and Macou Country has the greater density population covered around area of 30km^2 
-**Linear regression** fits best in both the cases to predict the values which gives the best accuracy
+**China** and **India** are the top 2 countries with above 1.4 billion population and **Asia** is the top continent among six continents and ** Macou** Country has the greater density population covered around area of 30km^2 
+and **Linear regression** fits best in both the cases to predict the values which gives the best accuracy
